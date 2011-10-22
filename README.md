@@ -54,6 +54,8 @@ Or without the time component:
   @{1998.07.21}
 `
 
+## Atoms
+
 The atom or data type of the statement is of the form:
 
 `
