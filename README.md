@@ -89,4 +89,4 @@ Examples:
 
 ` ({123 S Main St, Des Moines, IA 12345})^temperature@{2010.12.03 14:36}`
 
-This project contains implementations of the language in both Ruby and Java, utilizing Treetop and ANTLR respectively.  Included in each implementation is a simple engine object which captures the tokens and components of a Coldfront statement.  You may extend this engine to make use of the DSL as you need to.
+This project contains implementations of the language in both Ruby and Java, utilizing [Treetop|http://treetop.rubyforge.org/] and [ANTLR|http://www.antlr.org/] respectively.  Included in each implementation is a simple engine object which captures the tokens and components of a Coldfront statement.  You may extend this engine to make use of the DSL as you need to.
