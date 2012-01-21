@@ -62,8 +62,7 @@ The atom or data type of the statement is of the form:
   ^atom
 `
 
-where "atom" is any arrangement of mixed case alpha characters
-For example
+where "atom" is any arrangement of mixed case alpha characters.  For example
 
 ` ^temperature`
 
